@@ -79,7 +79,7 @@ export default function BookPage() {
   const [year, setYear] = useState('')
   const [makes, setMakes] = useState<{ MakeId: number; MakeName: string }[]>([])
   const [make, setMake] = useState('')
-  const [models, setModels] = useState<{ ModelId: number; ModelName: string }[]>([])
+  const [models, setModels] = useState<{ ModelId: number; Model_Name: string }[]>([])
   const [model, setModel] = useState('')
   const [engine, setEngine] = useState('')
 
