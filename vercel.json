@@ -1,0 +1,6 @@
+{
+  "git": {
+    "silent": false,
+    "productionBranch": "main"
+  }
+}
